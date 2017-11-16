@@ -43,8 +43,8 @@ if sys.version.info < (3,):
 
 ## Reference
 
-[Python 2.x document: range][python2-range]
-[Python 2.x document: xrange][python2-xrange]
+[Python 2.x document: range][python2-range]  
+[Python 2.x document: xrange][python2-xrange]  
 [Python 3.x document: range][python2-xrange]
 
 [python2-range]: https://docs.python.org/2/library/functions.html#range

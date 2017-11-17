@@ -15,7 +15,7 @@ Mon Nov 13 09:49:28 UTC 2017
 ```txt
 $ tzselect
 
-        * skip the process *
+* skip the process *
 
 You can make this change permanent for yourself by appending the line
         TZ='Asia/Seoul'; export TZ
@@ -41,7 +41,7 @@ Ubuntu/Debian 계열에서 적용되는 명령어입니다.
 ```txt
 $ sudo dpkg-reconfigure tzdata
 
-        * skip the process *
+* skip the process *
 
 Current default time zone: 'Asia/Seoul'
 Local time is now:      Mon Nov 13 18:49:28 KST 2017.

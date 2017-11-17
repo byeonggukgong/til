@@ -12,7 +12,7 @@ $ alias
 alias ..='cd ..'
 alias grep='grep --color=auto'
 
-        * skip the contents *
+* skip the contents *
 
 alias ls='ls --color=auto -F'
 ```
@@ -31,7 +31,7 @@ alias ..='cd ..'
 alias file_count='find . -type f | wc -l'
 alias grep='grep --color=auto'
 
-        * skip the contents *
+* skip the contents *
 
 alias ls='ls --color=auto -F'
 ```
@@ -49,7 +49,7 @@ $ alias
 alias ..='cd ..'
 alias grep='grep --color=auto'
 
-        * skip the contents *
+* skip the contents *
 
 alias ls='ls --color=auto -F'
 

@@ -1,8 +1,6 @@
 # More efficient ways to work, "alias" command
 
-`alias` 는 반복적으로 사용해야 하는 명령어에 **별칭**을 붙입니다.
-
-아래의 간단한 예제를 통해 알아봅시다.
+`alias` 명령어는 반복적으로 사용해야 하는 명령어에 **별칭**을 붙입니다.
 
 ### alias 목록
 

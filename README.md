@@ -1,12 +1,36 @@
 # Today I Learned
 
-Influenced by [thoughtbot's til][thoughtbot-til] and [subicura's til][subicura-til].
+[![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)](https://en.wikipedia.org/wiki/MIT_License)
 
-[thoughtbot-til]: https://github.com/thoughtbot/til
-[subicura-til]: https://github.com/subicura/til
+### Category
 
-## License
+* [Git](#git)
+* [Linux](#linux)
+* [Python](#python)
 
-© 2017 Byeongguk Gong Distributed under the [Creative Commons Attribution License][license].
+---
 
-[license]: https://creativecommons.org/licenses/by/2.0/kr/
+### Git
+
+- [Ways to reset commit](git/ways-to-reset-commit.md)
+
+### Linux
+
+- [More efficient ways to work, "alias" command](linux/more-efficient-ways-to-work-alias-command.md)
+- [More efficient ways to work, "update-alternatives" command](linux/more-efficient-ways-to-work-update-alternatives-command.md)
+- [Ways to change timezone](linux/ways-to-change-timezone.md)
+- [Ways to find command](linux/ways-to-find-command.md)
+
+### Python
+
+- [Know first and use it, enumerate()](python/know-first-and-use-it-enumerate.md)
+- [Know first and use it, "is" operator](python/know-first-and-use-it-is-operator.md)
+- [Know first and use it, range() and xrange()](python/know-first-and-use-it-range-and-xrange.md)
+- [Ways to change version of python](python/ways-to-change-version-of-python.md)
+
+---
+
+### Thanks to
+
+- [thoughtbot](https://github.com/thoughtbot/til)
+- [subicura](https://github.com/subicura/til)

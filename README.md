@@ -2,35 +2,27 @@
 
 [![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)](https://en.wikipedia.org/wiki/MIT_License)
 
-### Category
+## Category
 
 * [Git](#git)
 * [Linux](#linux)
 * [Python](#python)
 
----
+## Git
 
-### Git
+* [Ways to reset commit](git/ways-to-reset-commit.md)
+* [Ways to change remote repository URL](git/ways-to-change-remote-repository-url.md)
 
-- [Ways to reset commit](git/ways-to-reset-commit.md)
+## Linux
 
-### Linux
+* [More efficient ways to work, "alias" command](linux/more-efficient-ways-to-work-alias-command.md)
+* [More efficient ways to work, "update-alternatives" command](linux/more-efficient-ways-to-work-update-alternatives-command.md)
+* [Ways to change timezone](linux/ways-to-change-timezone.md)
+* [Ways to find command](linux/ways-to-find-command.md)
 
-- [More efficient ways to work, "alias" command](linux/more-efficient-ways-to-work-alias-command.md)
-- [More efficient ways to work, "update-alternatives" command](linux/more-efficient-ways-to-work-update-alternatives-command.md)
-- [Ways to change timezone](linux/ways-to-change-timezone.md)
-- [Ways to find command](linux/ways-to-find-command.md)
+## Python
 
-### Python
-
-- [Know first and use it, enumerate()](python/know-first-and-use-it-enumerate.md)
-- [Know first and use it, "is" operator](python/know-first-and-use-it-is-operator.md)
-- [Know first and use it, range() and xrange()](python/know-first-and-use-it-range-and-xrange.md)
-- [Ways to change version of python](python/ways-to-change-version-of-python.md)
-
----
-
-### Thanks to
-
-- [thoughtbot](https://github.com/thoughtbot/til)
-- [subicura](https://github.com/subicura/til)
+* [Know first and use it, enumerate()](python/know-first-and-use-it-enumerate.md)
+* [Know first and use it, "is" operator](python/know-first-and-use-it-is-operator.md)
+* [Know first and use it, range() and xrange()](python/know-first-and-use-it-range-and-xrange.md)
+* [Ways to change version of python](python/ways-to-change-version-of-python.md)

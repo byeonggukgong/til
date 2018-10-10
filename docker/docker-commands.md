@@ -7,6 +7,7 @@
 - [Client](#client)
   - [Image](#image)
   - [Container](#container)
+- [Machine](#machine)
 
 ## Client
 
@@ -40,3 +41,17 @@
 - `rm`은 하나 이상의 컨테이너를 없앤다. (실행 중인 컨테이너는 강제로 없애야 한다.)
   - `-f, --force`를 붙이면 컨테이너를 강제로 없앤다.
 - `prune`은 모든 컨테이너를 없앤다.
+
+## Machine
+
+- `ls`는 머신 목록을 보여준다.
+- `create`는 머신을 만든다. (드라이버를 반드시 정해야 한다.)
+  - `-d, --driver`를 붙이면 [드라이버](https://docs.docker.com/machine/drivers/)를 정한다.
+- `start`는 머신을 실행한다.
+- `restart`는 머신을 다시 실행한다.
+- `stop`은 머신을 멈춘다.
+- `kill`은 머신을 강제로 멈춘다.
+- `status`는 머신의 상태를 보여준다.
+- `inspect`는 머신의 정보를 보여준다.
+- `rm`은 하나 이상의 머신을 없앤다.
+  - `-f, --force`를 붙이면 머신을 강제로 없앤다.

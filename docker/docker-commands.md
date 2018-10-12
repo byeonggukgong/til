@@ -7,6 +7,7 @@
 - [Client](#client)
   - [Image](#image)
   - [Container](#container)
+- [Swarm](#swarm)
 - [Machine](#machine)
 
 ## Client
@@ -41,6 +42,17 @@
 - `rm`은 하나 이상의 컨테이너를 없앤다. (실행 중인 컨테이너는 강제로 없애야 한다.)
   - `-f, --force`를 붙이면 컨테이너를 강제로 없앤다.
 - `prune`은 모든 컨테이너를 없앤다.
+
+## Swarm
+
+- `init`은 스웜을 만든다.
+  - `--advertise-addr`를 붙이면 스웜에 들어갈 주소를 정한다.
+- `join`는 스웜에 들어간다. (토큰에 따라서 매니저 또는 워커로 역할이 주어진다.)
+- `join-token`는 스웜에 들어가기 위해 필요한 토큰을 관리한다. (매너저 또는 워커를 반드시 정해야 한다.)
+  - `-q, --quiet`를 붙이면 토큰만 보여준다.
+  - `--rotate`를 붙이면 새 토큰을 만든다.
+- `leave`는 스웜에서 나온다.
+  - `-f, --force`를 붙이면 스웜에서 강제로 나온다.
 
 ## Machine
 

@@ -1,4 +1,4 @@
-# Ways to reset commit
+# 커밋 초기화하기
 
 `reset` 명령어는 의도한 바와 다른 **commit** 을 되돌리는데 사용합니다.
 
@@ -31,7 +31,7 @@ $ git reset --hard HEAD~1
 
 > 다른 옵션과 달리 복구할 수 없으므로 신중히 사용하여야 합니다.
 
-## Reference
+## 참고
 
 [Git, Git 도구 - Reset 명확히 알고 가기](https://git-scm.com/book/ko/v2/Git-%EB%8F%84%EA%B5%AC-Reset-%EB%AA%85%ED%99%95%ED%9E%88-%EC%95%8C%EA%B3%A0-%EA%B0%80%EA%B8%B0)  
 [유봉주, \[초보용\] Git 되돌리기(Reset, Revert)](http://devpools.kr/2017/02/05/%EC%B4%88%EB%B3%B4%EC%9A%A9-git-%EB%90%98%EB%8F%8C%EB%A6%AC%EA%B8%B0-reset-revert/)

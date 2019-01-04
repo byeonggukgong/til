@@ -1,13 +1,13 @@
 # Today I Learned
 
-[![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)](https://en.wikipedia.org/wiki/MIT_License)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://en.wikipedia.org/wiki/MIT_License)
 
 ## 목록
 
 * [Docker](#docker)
 * [Git](#git)
 * [Linux](#linux)
-* [Network](#Network)
+* [Network](#network)
 * [Python](#python)
 
 ## Docker

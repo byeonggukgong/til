@@ -20,6 +20,7 @@
 * 커밋 되돌리기 :soon:
 * 커밋 병합하기 :soon:
 * 커밋 재구성하기 :soon:
+* [이전 커밋에 새 브랜치 만들기](git/create-a-new-branch-on-previous-commit.md)
 * [원격 저장소 주소 변경하기](git/change-remote-repository-url.md)
 
 ## Linux

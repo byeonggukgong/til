@@ -37,6 +37,7 @@
 
 ## Network
 
+* [DHCP](network/dhcp.md)
 * [NAT와 NAPT](network/nat-and-napt.md)
 
 ## Python

@@ -25,6 +25,7 @@
 
 * [Docker 명령어](docker/docker-commands.md) :bookmark:
 * [GitLab 설치하기](docker/docker-gitlab.md)
+* [Nexus 설치하기](docker/docker-nexus.md)
 
 ## Git
 

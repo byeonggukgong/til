@@ -19,6 +19,7 @@
 - `rm`은 `container rm`과 같습니다.
 - `rmi`는 `image rm`과 같습니다.
 - `run`은 이미지를 가져와 컨테이너를 만들고 실행합니다.
+  - `--add-host`는 컨테이너의 `/etc/hosts` 파일에 호스트 이름과 IP 주소를 연결합니다.
 - `start`는 `container start`와 같습니다.
 - `stop`은 `container stop`과 같습니다.
 - `version`은 클라이언트와 데몬의 버전을 보여줍니다.

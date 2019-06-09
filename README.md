@@ -51,6 +51,8 @@
 
 * [DHCP](network/dhcp.md)
 * [NAT와 NAPT](network/nat-and-napt.md)
+* [Stateful과 Stateless](network/stateful-and-stateless.md)
+* [CDN](network/cdn.md)
 
 ## Python
 
